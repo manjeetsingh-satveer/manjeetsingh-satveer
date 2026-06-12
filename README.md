@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/MANJEET_SINGH-IT_SPECIALIST_%7C_CYBERSECURITY-0077B5?style=for-the-badge" alt="Manjeet Singh Banner" width="100%">
