@@ -1,11 +1,10 @@
-
 <p align="center">
-  <img src="https://img.shields.io/badge/MANJEET_SINGH-IT_SPECIALIST_%7C_CYBERSECURITY-0077B5?style=for-the-badge" alt="Manjeet Singh Banner" width="100%">
+  <img src="https://img.shields.io/badge/MANJEET_SINGH-IT_%7C_CYBERSECURITY_%7C_NETWORKING-0077B5?style=for-the-badge" alt="Manjeet Singh Banner" width="100%">
 </p>
 
 <p align="center">
   <font color="#b388ff" size="4"><b>Securing Networks. Hardening Systems. Iterating daily.</b></font><br>
-  <font color="#82b1ff" size="3"><b>IT Administration &bull; Cloud &bull; Satellite Cyber Intelligence</b></font>
+  <font color="#82b1ff" size="3"><b>IT Administration &bull; Network Infrastructure &bull; Satellite Cyber Intelligence</b></font>
 </p>
 
 <p align="center">
@@ -17,23 +16,25 @@
 ---
 
 <details open>
-<summary><b>whoiam</b></summary>
+<summary><b>whoami</b></summary>
 <br>
 
 ```yaml
-name: Manjeet Singh [cite: 1]
-location: San Jose, California [cite: 14]
-education: B.S. Engineering Technology Computer Network System Management — San Jose State University [cite: 14, 17]
-currently_building: AEGIS (Orbital Cyber Threat Intelligence Platform) & Manshaan AI [cite: 20, 25]
-philosophy: "Resolving complex IT bottlenecks while engineering secure, threat-resistant architectures." [cite: 3, 5]
-status: Pursuing CCNA & advanced cybersecurity validations to stay ahead of evolving threat spaces. [cite: 5]
+name: Manjeet Singh
+location: San Jose, California
+education: B.S. Engineering Technology Computer Network System Management — San Jose State University
+currently_building: AEGIS (Orbital Cyber Threat Intelligence Platform) & Manshaan AI
+philosophy: "Resolving complex IT bottlenecks while engineering secure, threat-resistant architectures."
+status: Pursuing CCNA & advanced cybersecurity validations to stay ahead of evolving threat spaces.
 
 // assignment.config.ts
+
 const assignment = {
-  focus:     ["System Administration", "Network Security", "System Hardening", "Threat Detection"],
+  focus:     ["Network Administration", "Network Security", "System Hardening", "Threat Detection"],
   languages: ["Python", "HTML/CSS/JS", "Java"],
-  daily:     ["Active Directory", "Intune", "Docker", "Splunk", "Wireshark", "Linux", "Windows Server"],
-  mood:      "Analyze the logs. Identify the anomaly. Secure the perimeter.",
+  daily:     ["Cisco Packet Tracer", "Active Directory", "Intune", "Docker", "Splunk", "Wireshark"],
+  routing:   ["Cisco CCNA Architecture", "Network Design", "VLANs", "Subnetting"],
+  mood:      "Analyze the logs. Map the topology. Secure the perimeter.",
 } as const;
 
 export default assignment;
