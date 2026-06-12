@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**manjeetsingh-satveer/manjeetsingh-satveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/MANJEET_SINGH-IT_SPECIALIST_%7C_CYBERSECURITY-0077B5?style=for-the-badge" alt="Manjeet Singh Banner" width="100%">
 </p>
 
 <p align="center">
-  <font color="#b388ff" size="5"><b>Securing Networks. Hardening Systems. Iterating daily.</b></font><br>
-  <font color="#82b1ff" size="4"><b>IT Administration &bull; Cloud &bull; Satellite Cyber Intelligence</b></font>
+  <font color="#b388ff" size="4"><b>Securing Networks. Hardening Systems. Iterating daily.</b></font><br>
+  <font color="#82b1ff" size="3"><b>IT Administration &bull; Cloud &bull; Satellite Cyber Intelligence</b></font>
 </p>
 
 <p align="center">
@@ -26,9 +23,19 @@ Here are some ideas to get you started:
 <br>
 
 ```yaml
-name: Manjeet Singh
-location: San Jose, California
-education: B.S. Engineering Technology Computer Network System Management — San Jose State University
-currently_building: AEGIS (Orbital Cyber Threat Intelligence Platform) & Manshaan AI
-philosophy: "Resolving complex IT bottlenecks while engineering secure, threat-resistant architectures."
-status: Pursuing CCNA & advanced cybersecurity validations to stay ahead of evolving threat spaces.
+name: Manjeet Singh [cite: 1]
+location: San Jose, California [cite: 14]
+education: B.S. Engineering Technology Computer Network System Management — San Jose State University [cite: 14, 17]
+currently_building: AEGIS (Orbital Cyber Threat Intelligence Platform) & Manshaan AI [cite: 20, 25]
+philosophy: "Resolving complex IT bottlenecks while engineering secure, threat-resistant architectures." [cite: 3, 5]
+status: Pursuing CCNA & advanced cybersecurity validations to stay ahead of evolving threat spaces. [cite: 5]
+
+// assignment.config.ts
+const assignment = {
+  focus:     ["System Administration", "Network Security", "System Hardening", "Threat Detection"],
+  languages: ["Python", "HTML/CSS/JS", "Java"],
+  daily:     ["Active Directory", "Intune", "Docker", "Splunk", "Wireshark", "Linux", "Windows Server"],
+  mood:      "Analyze the logs. Identify the anomaly. Secure the perimeter.",
+} as const;
+
+export default assignment;
