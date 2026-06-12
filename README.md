@@ -17,7 +17,7 @@
 ---
 
 <details open>
-<summary><b>whoami</b></summary>
+<summary><b>whoiam</b></summary>
 <br>
 
 ```yaml
