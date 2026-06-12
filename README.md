@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/MANJEET_SINGH-IT_%7C_CYBERSECURITY_%7C_NETWORKING-0077B5?style=for-the-badge" alt="Manjeet Singh Banner" width="100%">
+  <img src="https://img.shields.io/badge/MANJEET_SINGH-CYBERSECURITY_%7C_NETWORKING-0077B5?style=for-the-badge" alt="Manjeet Singh Banner" width="100%">
 </p>
 
 <p align="center">
   <font color="#b388ff" size="4"><b>Securing Networks. Hardening Systems. Iterating daily.</b></font><br>
-  <font color="#82b1ff" size="3"><b>IT Administration &bull; Network Infrastructure &bull; Satellite Cyber Intelligence</b></font>
+  <font color="#82b1ff" size="3"><b>Network Infrastructure &bull; Threat Detection &bull; Satellite Cyber Intelligence</b></font>
 </p>
 
 <p align="center">
