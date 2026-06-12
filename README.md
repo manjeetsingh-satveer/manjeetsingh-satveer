@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/MANJEET_SINGH-CYBERSECURITY_%7C_NETWORKING-0077B5?style=for-the-badge" alt="Manjeet Singh Banner" width="100%">
+  <img src="https://img.shields.io/badge/MANJEET_SINGH-%20IT_SPECIALIST%20%7C%20CYBERSECURITY%20%7C%20NETWORKING-0077B5?style=for-the-badge" alt="Manjeet Singh Banner" width="100%">
 </p>
 
 <p align="center">
   <font color="#b388ff" size="4"><b>Securing Networks. Hardening Systems. Iterating daily.</b></font><br>
-  <font color="#82b1ff" size="3"><b>Network Infrastructure &bull; Threat Detection &bull; Satellite Cyber Intelligence</b></font>
+  <font color="#82b1ff" size="3"><b>IT Administration &bull; Network Infrastructure &bull; Satellite Cyber Intelligence</b></font>
 </p>
 
 <p align="center">
@@ -30,9 +30,9 @@ status: Pursuing CCNA & advanced cybersecurity validations to stay ahead of evol
 // assignment.config.ts
 
 const assignment = {
-  focus:     ["Network Administration", "Network Security", "System Hardening", "Threat Detection"],
+  focus:     ["System Administration", "Network Security", "System Hardening", "Threat Detection"],
   languages: ["Python", "HTML/CSS/JS", "Java"],
-  daily:     ["Cisco Packet Tracer", "Active Directory", "Intune", "Docker", "Splunk", "Wireshark"],
+  daily:     ["Active Directory", "Intune", "Docker", "Splunk", "Wireshark", "Linux", "Windows Server"],
   routing:   ["Cisco CCNA Architecture", "Network Design", "VLANs", "Subnetting"],
   mood:      "Analyze the logs. Map the topology. Secure the perimeter.",
 } as const;
