@@ -111,10 +111,6 @@ $ gh stats --me
   <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=manjeetsingh-satveer&layout=compact&hide_border=true&title_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manjeetsingh-satveer&theme=matrix&no-frame=true&column=7&margin-w=8">
-</p>
-
 ---
 
 <p align="center"><i>➜ exit 0 · thanks for stopping by. let's build something secure.</i></p>
