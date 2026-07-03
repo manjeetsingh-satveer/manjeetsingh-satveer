@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./name-typing.svg" alt="Manjeet Singh">
+  <img src="./name-typing-v2.svg" alt="Manjeet Singh">
 </p>
 
 <p align="center">
