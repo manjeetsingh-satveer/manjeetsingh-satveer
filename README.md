@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manjeet%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Breaking%20systems%20to%20understand%20them%2C%20then%20hardening%20them.&descAlignY=62&descSize=17" width="100%">
+  <img src="./name-typing.svg" alt="Manjeet Singh">
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ const manjeet = {
   focus:     ["Cybersecurity", "Network Engineering", "AI Tooling"],
   languages: ["Python", "JavaScript", "Java"],
   daily:     ["React", "Node.js", "Docker", "Linux", "Wireshark"],
-  mood:      "Breaking systems to understand them, then hardening them.",
+  mood:      "Ship fast, secure faster.",
 } as const;
 
 export default manjeet;
