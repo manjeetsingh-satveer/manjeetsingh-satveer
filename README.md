@@ -20,7 +20,7 @@
 ---
 
 ```bash
-manjeet@profile:~$ whoami
+manjeetsingh@profile:~$ whoami
 ──────────────────────────────────────────────────────────
  Name : Manjeet Singh
  Degree : BS Computer Network System Management @ SJSU
@@ -123,3 +123,4 @@ manjeet@profile:~$ whoami
 **`➜ Thanks for stopping by — let's build something secure.`**
 
 </div>
+
