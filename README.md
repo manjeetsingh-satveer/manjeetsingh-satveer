@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-banner.png" alt="Manjeet Singh — IT Specialist → Cybersecurity & Network Engineer" width="100%">
+  <img src="./hero-banner.png" alt="Manjeet Singh — IT Specialist → Cybersecurity & Network Engineer" width="100%">
 </p>
 
 <div align="center">
