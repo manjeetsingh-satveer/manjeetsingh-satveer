@@ -20,7 +20,7 @@
 ---
 
 ```bash
-manjeet@spartan:~/profile$ ./whoami.sh
+manjeet-singh@profile:~$ ./whoami.sh
 ```
 
 > Breaking systems to understand them, then hardening them. I run endpoint fleets by day and
