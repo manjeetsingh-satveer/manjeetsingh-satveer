@@ -23,6 +23,8 @@ manjeet@spartan:~/profile$ ./whoami.sh
 > **on-device survival AI**. Fluent in English, Punjabi & Burmese.
 
 🎯 **Current mission:** breaking into **Security / Network Engineering**
+🔭 **Currently building:** AEGIS · Vela · The Vault
+📚 **Currently learning:** CCNA, network defense & threat detection
 
 ---
 
@@ -54,12 +56,14 @@ manjeet@spartan:~/profile$ ./whoami.sh
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,git,docker,linux,azure,aws,bash,vercel,tailwind,java,html,css&perline=8">
 </p>
 
-**Languages** — Python · JavaScript
-**Frameworks** — React · Node.js
-**Tools** — Git · Docker · Linux
-**Cloud / IT** — Azure · Intune · ServiceNow · Jira
-**Security** — Wireshark · Active Directory
-**Infrastructure** — PXE Boot
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | Python · JavaScript · Java · HTML/CSS |
+| **Frameworks** | React · Node.js · Tailwind CSS |
+| **Tools** | Git · Docker · Linux · Bash |
+| **Cloud / IT** | Azure · AWS · Intune · ServiceNow · Jira |
+| **Security** | Wireshark · Active Directory |
+| **Infrastructure** | PXE Boot |
 
 ---
 
