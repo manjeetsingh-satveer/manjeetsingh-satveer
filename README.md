@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./hero-banner.png" alt="Manjeet Singh — IT Specialist → Cybersecurity & Network Engineer" width="100%">
-</p>
-
 <div align="center">
 
 # 👾 MANJEET SINGH
@@ -106,9 +102,9 @@ manjeetsingh@profile:~$ whoami
 
 <div align="center">
 
-![Manjeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjeetsingh-satveer&show_icons=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117)
+![Manjeet's GitHub Stats](https://github-readme-stats-sigma-red.vercel.app/api?username=manjeetsingh-satveer&show_icons=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetsingh-satveer&layout=compact&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117)
+![Top Languages](https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=manjeetsingh-satveer&layout=compact&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh-satveer&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff)
 
