@@ -12,6 +12,11 @@
   <a href="https://github.com/manjeetsingh-satveer"><img src="https://komarev.com/ghpvc/?username=manjeetsingh-satveer&label=Profile%20views&color=55e08f&style=for-the-badge"></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Current_Mission-Security_%2F_Network_Engineering-55e08f?style=flat-square">
+  <img src="https://img.shields.io/badge/Languages-EN_%C2%B7_PA_%C2%B7_MY-0a0c0a?style=flat-square&color=282c34">
+</p>
+
 ---
 
 ```bash
@@ -20,20 +25,47 @@ manjeet@spartan:~/profile$ ./whoami.sh
 
 > Breaking systems to understand them, then hardening them. I run endpoint fleets by day and
 > build AI + security tooling by night — from an **orbital threat-intel platform** to
-> **on-device survival AI**. Fluent in English, Punjabi & Burmese.
+> **on-device survival AI**.
 
-🎯 **Current mission:** breaking into **Security / Network Engineering**
-🔭 **Currently building:** AEGIS · Vela · The Vault
-📚 **Currently learning:** CCNA, network defense & threat detection
+<table>
+<tr>
+<td>
+
+🎯&nbsp;**Current mission**
+Breaking into Security / Network Engineering
+
+</td>
+<td>
+
+🔭&nbsp;**Currently building**
+AEGIS · Vela · The Vault
+
+</td>
+<td>
+
+📚&nbsp;**Currently learning**
+CCNA, network defense & threat detection
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Hackathon Wins
 
-| 🥇 **1st Place** | 🥈 **2nd Place** | 🏅 **Top 10** |
-| :--- | :--- | :--- |
-| **Lodestar** | **Manshaan AI** | **ZeroDaySpartans** |
-| Qualcomm × Meta ExecuTorch Hackathon | UC Berkeley 13 Hacks · $2,000 | SJSU Cloudathon 2026 CTF · #10/20 |
+<table>
+<tr>
+  <th align="center">🥇 1st Place</th>
+  <th align="center">🥈 2nd Place</th>
+  <th align="center">🏅 Top 10</th>
+</tr>
+<tr>
+  <td align="center"><b>Lodestar</b><br><sub>Qualcomm × Meta ExecuTorch Hackathon</sub></td>
+  <td align="center"><b>Manshaan AI</b><br><sub>UC Berkeley 13 Hacks · $2,000</sub></td>
+  <td align="center"><b>ZeroDaySpartans</b><br><sub>SJSU Cloudathon 2026 CTF · #10/20</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -42,11 +74,11 @@ manjeet@spartan:~/profile$ ./whoami.sh
 | Project | Description |
 | :--- | :--- |
 | 🛰️ **[AEGIS](https://aegis-orbital.vercel.app)** | Open-source **orbital cyber threat-intel** platform — tracks 134+ live satellites with SGP4 (the algorithm NORAD uses) and flags GPS spoofing, jamming, replay & command-injection attacks via an Isolation-Forest anomaly model on live CelesTrak TLE data. |
-| 🩺 **Dard AI** | AI platform helping chronic-illness patients track, understand & manage their conditions. |
 | 🧭 **Lodestar** 🥇 | Offline, on-device AI survival assistant — runs fully local via ExecuTorch. |
+| 🧠 **Manshaan AI** 🥈 | Neurodevelopmental diagnostic platform — compresses a ~2-year clinical assessment into ~20 min using the Claude API. |
 | 📈 **Vela** | AI-powered stock research terminal with natural-language market queries. |
 | 🏦 **The Vault** | Options flow & dark-pool scanner surfacing unusual institutional activity in real time. |
-| 🧠 **Manshaan AI** 🥈 | Neurodevelopmental diagnostic platform — compresses a ~2-year clinical assessment into ~20 min using the Claude API. |
+| 🩺 **Dard AI** | AI platform helping chronic-illness patients track, understand & manage their conditions. |
 
 ---
 
@@ -69,11 +101,13 @@ manjeet@spartan:~/profile$ ./whoami.sh
 
 ## 📜 Certifications
 
-- ✅ Google Cybersecurity Professional
-- ✅ CCST Networking
-- ✅ TryHackMe Pre-Security
-- 🔄 CCNA *(in progress)*
-- ⬜ Security+ *(planned)*
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional-✅-55e08f?style=flat-square">
+  <img src="https://img.shields.io/badge/CCST_Networking-✅-55e08f?style=flat-square">
+  <img src="https://img.shields.io/badge/TryHackMe_Pre--Security-✅-55e08f?style=flat-square">
+  <img src="https://img.shields.io/badge/CCNA-in_progress-yellow?style=flat-square">
+  <img src="https://img.shields.io/badge/Security%2B-planned-lightgrey?style=flat-square">
+</p>
 
 ---
 
