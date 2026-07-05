@@ -28,7 +28,7 @@
 ## `> whoami`
 
 ```bash
-manjeet@spartan:~/profile$ whoami
+manjeetsingh:~/profile$ whoami
 
 name:               Manjeet Singh
 location:           San Jose, CA
