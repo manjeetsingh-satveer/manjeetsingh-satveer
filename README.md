@@ -32,7 +32,7 @@ manjeetsingh:~/profile$ whoami
 
 name:               Manjeet Singh
 location:           San Jose, CA
-education:          B.S. Computer Network System Management — San José State University (Sophomore)
+education:          B.S. Computer Network System Management — San José State University (Senior)
 currently_building: AEGIS · Vela · The Vault
 status:             Breaking into Security / Network Engineering
 ```
@@ -40,9 +40,10 @@ status:             Breaking into Security / Network Engineering
 ```ts
 // manjeet.config.ts
 const manjeet = {
-  focus:     ["Cybersecurity", "Network Engineering", "AI Tooling"],
-  languages: ["Python", "JavaScript", "Java"],
-  daily:     ["React", "Node.js", "Docker", "Linux", "Wireshark"],
+  focus:     ["Cybersecurity", "Network Engineering", "AI Tooling", "Cloud"],
+  languages: ["Python"],
+  stack:     ["AWS", "Google Cloud", "IoT", "Cisco Routing & Switching"],
+  daily:     ["React", "Node.js", "Docker", "Linux", "Wireshark", "Cloud", "VM"],
   mood:      "Ship fast, secure faster.",
 } as const;
 
