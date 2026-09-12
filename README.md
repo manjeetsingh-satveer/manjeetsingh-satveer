@@ -54,8 +54,8 @@ $ gh stats --me
 ```
 
 <p align="left">
-  <img src="https://img.shields.io/badge/REPOS-20%2B-101409?style=flat-square&labelColor=101409&color=161b12">
-  <img src="https://img.shields.io/badge/YEAR-2026-101409?style=flat-square&labelColor=101409&color=161b12">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmanjeetsingh-satveer&query=%24.public_repos&label=REPOS&style=flat-square&labelColor=101409&color=161b12">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmanjeetsingh-satveer&query=%24.followers&label=FOLLOWERS&style=flat-square&labelColor=101409&color=161b12">
   <img src="https://img.shields.io/badge/LANG-Python-101409?style=flat-square&labelColor=101409&color=161b12">
   <img src="https://img.shields.io/badge/LEVEL-Junior-101409?style=flat-square&labelColor=101409&color=161b12">
   <img src="https://img.shields.io/badge/MODE-BUILD-101409?style=flat-square&labelColor=101409&color=55e08f">
