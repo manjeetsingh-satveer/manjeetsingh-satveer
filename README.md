@@ -34,7 +34,7 @@ name:               Manjeet Singh
 location:           San Jose, CA
 education:          B.S. Computer Network System Management — San José State University (Senior)
 currently_building: AEGIS · Vela · The Vault
-status:             Breaking into Security / Network Engineering
+status:             Network Security Engineer in Training
 ```
 
 ```ts
