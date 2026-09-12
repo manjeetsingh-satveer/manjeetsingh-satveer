@@ -34,7 +34,7 @@ name:               Manjeet Singh
 location:           San Jose, CA
 education:          B.S. Computer Network System Management — San José State University (Senior)
 currently_building: AEGIS · Vela · The Vault
-status:             Network Security Engineer in Training
+status:             IT Specialist | Network Security Engineer in Training
 ```
 
 ```ts
@@ -58,7 +58,7 @@ $ gh stats --me
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmanjeetsingh-satveer&query=%24.public_repos&label=REPOS&style=flat-square&labelColor=101409&color=161b12">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmanjeetsingh-satveer&query=%24.followers&label=FOLLOWERS&style=flat-square&labelColor=101409&color=161b12">
   <img src="https://img.shields.io/badge/LANG-Python-101409?style=flat-square&labelColor=101409&color=161b12">
-  <img src="https://img.shields.io/badge/LEVEL-Junior-101409?style=flat-square&labelColor=101409&color=161b12">
+  <img src="https://img.shields.io/badge/LEVEL-Senior-101409?style=flat-square&labelColor=101409&color=161b12">
   <img src="https://img.shields.io/badge/MODE-BUILD-101409?style=flat-square&labelColor=101409&color=55e08f">
   <img src="https://img.shields.io/badge/●-LIVE-101409?style=flat-square&labelColor=101409&color=55e08f">
 </p>
@@ -76,7 +76,7 @@ $ gh stats --me
 | **Languages** | Python · JavaScript · Java · HTML/CSS |
 | **Frameworks** | React · Node.js · Tailwind CSS |
 | **Tools** | Git · Docker · Linux · Bash |
-| **Cloud / IT** | Azure · AWS · Intune · ServiceNow · Jira |
+| **Cloud / IT** | Azure · AWS · Google Cloud · Intune · ServiceNow · Jira |
 | **Security** | Wireshark · Active Directory |
 | **Infrastructure** | PXE Boot |
 
@@ -104,12 +104,12 @@ $ gh stats --me
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api?username=manjeetsingh-satveer&show_icons=true&hide_border=true&title_color=55e08f&icon_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh-satveer&hide_border=true&background=0a0c0a&stroke=242c1f&ring=55e08f&fire=55e08f&currStreakLabel=55e08f&sideLabels=d7e4d0&dates=74836a&currStreakNum=d7e4d0&sideNums=d7e4d0">
+  <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api?username=manjeetsingh-satveer&show_icons=true&hide_border=true&title_color=55e08f&icon_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a&cache_bust=20260911">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh-satveer&hide_border=true&background=0a0c0a&stroke=242c1f&ring=55e08f&fire=55e08f&currStreakLabel=55e08f&sideLabels=d7e4d0&dates=74836a&currStreakNum=d7e4d0&sideNums=d7e4d0&cache_bust=20260911">
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=manjeetsingh-satveer&layout=compact&hide_border=true&title_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a">
+  <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=manjeetsingh-satveer&layout=compact&hide_border=true&title_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a&cache_bust=20260911">
 </p>
 
 ---
