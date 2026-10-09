@@ -104,12 +104,12 @@ $ gh stats --me
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api?username=manjeetsingh-satveer&show_icons=true&hide_border=true&title_color=55e08f&icon_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a&cache_bust=20261008">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh-satveer&hide_border=true&background=0a0c0a&stroke=242c1f&ring=55e08f&fire=55e08f&currStreakLabel=55e08f&sideLabels=d7e4d0&dates=74836a&currStreakNum=d7e4d0&sideNums=d7e4d0&cache_bust=20261008">
+  <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api?username=manjeetsingh-satveer&show_icons=true&hide_border=true&title_color=55e08f&icon_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a&cache_bust=20261009">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh-satveer&hide_border=true&background=0a0c0a&stroke=242c1f&ring=55e08f&fire=55e08f&currStreakLabel=55e08f&sideLabels=d7e4d0&dates=74836a&currStreakNum=d7e4d0&sideNums=d7e4d0&cache_bust=20261009">
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=manjeetsingh-satveer&layout=compact&hide_border=true&title_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a&cache_bust=20261008">
+  <img height="165" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=manjeetsingh-satveer&layout=compact&hide_border=true&title_color=55e08f&text_color=d7e4d0&bg_color=0a0c0a&cache_bust=20261009">
 </p>
 
 ---
